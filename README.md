@@ -1,6 +1,6 @@
 # Hi, I'm Abdulaziz 👋 👨‍💻
 ![Image](https://github.com/user-attachments/assets/19848629-3174-45ea-bf70-fcc3c9796d37)
-I'm a data extraction specialist and freelance web scraper passionate about automating data collection, making insights more accessible, and helping businesses leverage web data efficiently.
+#### I'm a data extraction specialist and freelance web scraper passionate about automating data collection, making insights more accessible, and helping businesses leverage web data efficiently.
 
 With expertise in Python, Selenium, Scrapy, and Apify, I build custom solutions for web scraping, data mining, and API integrations. I have experience extracting structured data from various platforms, including LinkedIn, Google Maps, e-commerce stores, job boards, and social media.
 
