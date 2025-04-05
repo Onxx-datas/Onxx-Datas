@@ -1,4 +1,3 @@
-# Hi, I'm Abdulaziz 👋 👨‍💻
 ![Image](https://github.com/user-attachments/assets/19848629-3174-45ea-bf70-fcc3c9796d37)
 #### I'm a data extraction specialist and freelance web scraper passionate about automating data collection, making insights more accessible, and helping businesses leverage web data efficiently.
 
