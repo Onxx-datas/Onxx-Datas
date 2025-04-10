@@ -8,5 +8,5 @@
 • 📷 Follow me on – [Instagram](https://www.instagram.com/kom1lo.v/)  
 • 💡 Solving problems on – [LeetCode](https://leetcode.com/Onxx_2)  
 • 🤖 Selling automation tools on – [Apify](https://apify.com/onxx-datas)  
-• ☕ Buy me a coffee - [Support](https://buymeacoffee.com/onxxdatas)
+• ☕ Buy me a coffee - [Support](https://buymeacoffee.com/onxxdatas)  
 • 📧 Email me at: kalabiq1@gmail.com
